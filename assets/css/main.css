@@ -72,6 +72,22 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+.playlist {
+      margin: 0 auto;
+      align-left: auto;
+    }
+    .track {
+      margin-bottom: 5px;
+      padding: 3px;
+    }
+    .track h5 {
+      margin: 0 0 8px;
+      font-size: 14px;
+      color: #333;
+    }
+
+
 /* Page */
 
 	@-moz-keyframes load-spinner {
